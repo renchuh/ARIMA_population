@@ -1,4 +1,4 @@
-# ATime Series Forecasting with ARIMA
+# A Time Series Forecasting with ARIMA
 
 ## Overview
 
